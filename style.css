@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 2;
+    padding: 0;
     box-sizing: border-box;
     list-style: none;
     font-family: 'Roboto', sans-serif;
@@ -28,7 +28,7 @@
 }
 
 .left-section-contents{
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
 }
 
 .profile {
@@ -73,7 +73,7 @@
 
 .contact-info ul li i,
 .references ul li i {
-    padding-right: 2rem;
+    padding-right: 1rem;
     font-size: 18px;
     color: #eeeeee;
 }
@@ -86,7 +86,7 @@
     color: #eeeeee;
 }
 
-.right-section-contents {   
+.right-section-contents {
     padding: 2rem 2rem;
 }
 
